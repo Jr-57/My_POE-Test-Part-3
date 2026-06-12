@@ -1,0 +1,3 @@
+quickchatmessaging.ReceivedMessage
+quickchatmessaging.QuickChatMessaging
+quickchatmessaging.Message
